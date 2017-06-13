@@ -1,0 +1,634 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "Jakim wersetem zaczyna się Biblia?",
+		            "content" : [
+		                "„Na początku stworzył Bóg niebo i ziemię.”",
+		                "„Na początku było Słowo, a Słowo było u Boga, a Bogiem było Słowo.”",
+		                "„I rzekł Bóg: Niech stanie się światłość.”",
+		                "„I stworzył Bóg człowieka na obraz swój.”"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Po jakim królu Dawid przejął władzę?",
+		            "content" : [
+		                "Salomon",
+		                "Saul",
+		                "Samuel",
+		                "Samson"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Który anioł zwiastował narodzenie Chrystusa?",
+		            "content" : [
+		                "Michał",
+		                "Gabriel",
+		                "Wódź Wojska Pana",
+		                "Lucyfer"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Ile starszy od Mojżesza był Aaron?",
+		            "content" : [
+		                "3 lata",
+		                "2 lata",
+		                "rok",
+		                "5 lat"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Jak miała na imię żona Izaaka?",
+		            "content" : [
+		                "Rachela",
+		                "Rebeka",
+		                "Rachab",
+		                "Rut"
+		            ],
+		            "correct" : 1
+		        },
+				{
+				    "correct": 1,
+				    "content": [
+				        "90",
+				        "100",
+				        "99",
+				        "110"
+				    ],
+				    "question": "Ile lat miał Abraham kiedy urodził mu się Izaak?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "o dzierżawcach winnicy",
+				        "o pszenicy i kąkolu",
+				        "o krzewie winnym i latoroślach",
+				        "o czworakiej roli"
+				    ],
+				    "question": "Której przypowieści nie ma w Biblii?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Syjon",
+				        "Hebron",
+				        "Synaj",
+				        "Tabor"
+				    ],
+				    "question": "Na jakiej górze objawił się Bóg Mojżeszowi?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Korynt",
+				        "Antiochia",
+				        "Efez",
+				        "Laodycea"
+				    ],
+				    "question": "Jaki był pierwszy zbór złożony z pogan?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "123",
+				        "125",
+				        "127",
+				        "129"
+				    ],
+				    "question": "Nad iloma prowincjami panował Achaszwerosz?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "liczby dni po, których Jezus ukazał się po zmartwychwstaniu",
+				        "wieku Mojżesza gdy zabił Egipcjanina",
+				        "liczby dni, przez które padał deszcz, rozpoczynający potop",
+				        "liczby zabitych w katastrofie budowlanej przy Syloe"
+				    ],
+				    "question": "Liczba 40 nie oznacza:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "synogarlicą",
+				        "koźlątkiem",
+				        "barankiem",
+				        "jagnięciem"
+				    ],
+				    "question": "Jakim zwierzęciem należało wykupić oślę?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Jak na imię miał trzeci syn Adama?",
+		            "content" : [
+		                "Kain",
+		                "Set",
+		                "Abel",
+		                "Sem"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Jak miała na imię matka Samuela, żona Elkany?",
+		            "content" : [
+		                "Elżbieta",
+		                "Penina",
+		                "Anna",
+		                "Tamar"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Ile było podróży misyjnych Pawła?",
+		            "content" : [
+		                "1",
+		                "3",
+		                "4",
+		                "5"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Ile było listów do zborów w Apokalipsie?",
+		            "content" : [
+		                "5",
+		                "6",
+		                "7",
+		                "8"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Kogo sny wyłożył Józef w więzieniu w Egipcie?",
+		            "content" : [
+		                "podczaszego i kucharza",
+		                "piekarza i kucharza",
+		                "podczaszego i wróżbity",
+		                "piekarza i podczaszego"
+		            ],
+		            "correct" : 3
+		        },
+				{
+				    "correct": 2,
+				    "content": [
+				        "Nun",
+				        "Szafat",
+				        "Kaleb",
+				        "Gaddi"
+				    ],
+				    "question": "Jozue i, który jeszcze zwiadowca nie rozpuszczali „złej wieści” o ziemi obiecanej?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Leśny Pałac",
+				        "Leśny Dom",
+				        "Leśny Pałac Libański",
+				        "Leśny Dom Libański"
+				    ],
+				    "question": "Jak nazywała się „letnia” rezydencja Salomona?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "psów",
+				        "szakali",
+				        "hien",
+				        "lisów"
+				    ],
+				    "question": "Jakich zwierząt użył Samson do podpalenia pól filistyńczyków?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "69",
+				        "96",
+				        "696",
+				        "969"
+				    ],
+				    "question": "Ile lat żył Matuzalem (Metuszelach)?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Dariusz Medyjczyk",
+				        "Belsazar",
+				        "Jojakim",
+				        "Achaszwerosz"
+				    ],
+				    "question": "Który król nie panował za życia Daniela?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "pogrzebali zmarłego ojca",
+				        "poszli pożegnać się z matką",
+				        "wyciągnęli łodzie na ląd",
+				        "prosili Pana, by od nich odszedł ze względu na ich grzech"
+				    ],
+				    "question": "Co zrobili synowie Zebedeusza przy powołaniu?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Kiriat-Jearim",
+				        "Aszdod",
+				        "Gilgal",
+				        "Gat"
+				    ],
+				    "question": "Zanim Dawid sprowadził skrzynię Boża do Jeruzalemu pozostawała ona w?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Ile jest Psalmów?",
+		            "content" : [
+		                "140",
+		                "145",
+		                "150",
+		                "155"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Ile było głupich panien w przypowieści Jezusa?",
+		            "content" : [
+		                "3",
+		                "5",
+		                "7",
+		                "10"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Kto był pierwszym męczennikiem?",
+		            "content" : [
+		                "Piotr",
+		                "Jakub",
+		                "Szczepan",
+		                "Barnaba"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "W Apokalipsie jako pierwszy wymieniony jest list do zboru w:",
+		            "content" : [
+		                "Smyrnie",
+		                "Efezie",
+		                "Filadelfii",
+		                "Laodycei"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "W co zamieniła się żona Lota po obejrzeniu się w stronę Sodomy i Gomory?",
+		            "content" : [
+		                "słup soli",
+		                "kamień",
+		                "piasek",
+		                "żabę"
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 2,
+				    "content": [
+				        "Just",
+				        "Barsaba",
+				        "Maciej",
+				        "Józef"
+				    ],
+				    "question": "Który apostoł został wybrany w miejsce Judasza?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "„Gdy głodnemu podasz swój chleb i zaspokoisz pragnienie strapionego, wtedy twoje światło wzejdzie w ciemności, a twój zmierzch będzie jak południe”",
+				        "„Oto ja posyłam anioła przed tobą, aby cię strzegł w drodze i zaprowadził cię na miejsce, które przygotowałem”",
+				        "„Aniołom swoim przykażę o Tobie, abyś nie zranił o kamień nogi swojej.”",
+				        "„Nie samym chlebem żyje człowiek, ale każdym słowem, które pochodzi z ust Bożych”"
+				    ],
+				    "question": "Podczas kuszenia Jezusa, diabeł zacytował werset, który?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "11",
+				        "12",
+				        "13",
+				        "15"
+				    ],
+				    "question": "Ile jest listów św. Pawła?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Baltazar",
+				        "Barnaba",
+				        "Belsazar",
+				        "Ben-Daniel"
+				    ],
+				    "question": "Jakie imię zostało nadane Danielowi w niewoli babilońskiej?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Piszon",
+				        "Gichon",
+				        "Eufrat",
+				        "Tygrys"
+				    ],
+				    "question": "Która rzeka nie wypływała z raju?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "jęczmień i len",
+				        "jęczmień i orkisz",
+				        "pszenicę i len",
+				        "pszenicę i orkisz"
+				    ],
+				    "question": "Co zniszczyła plaga gradu w Egipcie?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Betania",
+				        "Efraim",
+				        "Betsaida",
+				        "Emaus"
+				    ],
+				    "question": "W jakim mieście ukrył się Jezus z uczniami przed świętem Paschy?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Symbolem Ducha Świętego nie jest?",
+		            "content" : [
+		                "gołębica",
+		                "wiatr",
+		                "woda",
+		                "burza"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "W drodze do jakiego miasta Saulowi z Tarsu objawił się Chrystus?",
+		            "content" : [
+		                "Damaszku",
+		                "Jerozolimy",
+		                "Samarii",
+		                "Rzymu"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Ile jest ksiąg Nowego Testamentu?",
+		            "content" : [
+		                "21",
+		                "25",
+		                "27",
+		                "34"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Co jedli Daniel i jego przyjaciele na dworze Nabukadnesara?",
+		            "content" : [
+		                "wieprzowinę",
+		                "wołowinę",
+		                "ryby",
+		                "jarzyny"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Ile lat miał Jezus gdy został po święcie w Jerozolimie?",
+		            "content" : [
+		                "10",
+		                "11",
+		                "12",
+		                "13"
+		            ],
+		            "correct" : 2
+		        },
+				{
+				    "correct": 0,
+				    "content": [
+				        "kłamstwa",
+				        "chciwości",
+				        "pychy",
+				        "zazdrości"
+				    ],
+				    "question": "Z jakiego powodu Ananiasz i Safira zginęli?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "księgi",
+				        "słowo",
+				        "prawo",
+				        "przymierze"
+				    ],
+				    "question": "Co dosłownie oznacza słowo Biblia?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Malta",
+				        "Cypr",
+				        "Patmos",
+				        "Lesbos"
+				    ],
+				    "question": "Na jakiej wyspie autor Apokalipsy, otrzymał objawienie?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "został ukamienowany",
+				        "zginął w walce",
+				        "zabrał go Bóg",
+				        "dożył sędziwego wieku i umarł"
+				    ],
+				    "question": "Jak zakończyło się życie Henocha?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "w Betlejem",
+				        "w Kafarnaum",
+				        "w Nazarecie",
+				        "nie jest to napisane w Biblii"
+				    ],
+				    "question": "W jakim mieście mieszkała Maria, kiedy ukazał jej się anioł?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Noemi i Boaz",
+				        "Debora i Barak",
+				        "Pryscylla i Akwila",
+				        "Orpa i Malchon"
+				    ],
+				    "question": "Która z par była małżeństwem?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "owcza",
+				        "śmietnisk",
+				        "pieców",
+				        "więzienna"
+				    ],
+				    "question": "Która z wymienionych nie była bramą Jerozolimy w czasach Nehemiasza?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Z zawodu Paweł był?",
+		            "content" : [
+		                "wytwórcą namiotów",
+		                "cieślą",
+		                "rybakiem",
+		                "rolnikiem"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Synem Noego nie jest?",
+		            "content" : [
+		                "Jafet",
+		                "Kenan",
+		                "Sem",
+		                "Cham"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Czym żywił się Jan Chrzciciel?",
+		            "content" : [
+		                "mrówkami",
+		                "larwami",
+		                "chrabąszczami",
+		                "szarańczą"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which month has only 28 days (unless it's a leap year)?",
+		            "content" : [
+		                "March",
+		                "September",
+		                "June",
+		                "Feburary"
+		            ],
+		            "correct" : 3
+		        },
+				{
+				    "correct": 1,
+				    "content": [
+				        "Herodiada",
+				        "córka Herodiady",
+				        "hetman Heroda",
+				        "biesiadnicy"
+				    ],
+				    "question": "Kto poprosił Heroda o głowę Jana Chrzciciela?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Synami Grzmotu",
+				        "Synami Błyskawicy",
+				        "Synami Gromu",
+				        "Synami Burzy"
+				    ],
+				    "question": "Jan i Jakub nazywani byli?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "do organizmu",
+				        "do budowli",
+				        "do rodziny",
+				        "do rośliny"
+				    ],
+				    "questiona": "Do czego w Biblii nie jest porównany Kościół?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Eliasz",
+				        "Elihu",
+				        "Elifaz",
+				        "Elizeusz"
+				    ],
+				    "question": "Kto został zabrany ognistym rydwanem?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "świątynię w Jerozolimie",
+				        "mury Jerozolimy",
+				        "bramy Jerozolimy",
+				        "twierdzę Jerozolima"
+				    ],
+				    "question": "Co odbudował Ezdrasz?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "w Aj",
+				        "w Hebronie",
+				        "w Gibeonie",
+				        "w Jerychu"
+				    ],
+				    "question": "W jakim mieście mieszkała Rachab?"
+				},
+		        {
+		            "question" : "WKto był nazwany „synem pocieszenia”?",
+		            "content" : [
+		                "Barsaba",
+		                "Maciej",
+		                "Barnaba",
+		                "Jan Chrzciciel"
+		            ],
+		            "correct" : 2
+		        },
+				{
+				    "correct": 2,
+				    "content": [
+				        "Hiskiasz",
+				        "Manasess",
+				        "Jozjasz",
+				        "Jehoszafat"
+				    ],
+				    "question": "Kto był królem w Jeruzalemie, gdy odnaleziono księgę zakonu?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "był wygnany z obozu",
+				        "był nieczysty",
+				        "płacił grzywnę",
+				        "ponosił śmierć"
+				    ],
+				    "question": "Co działo się z każdym, kto nie obchodził Paschy w pierwszym lub drugim terminie?"
+				}
+		    ]
+		}
+	]
+}
