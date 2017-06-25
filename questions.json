@@ -528,16 +528,6 @@
 		            ],
 		            "correct" : 3
 		        },
-		        {
-		            "question" : "Which month has only 28 days (unless it's a leap year)?",
-		            "content" : [
-		                "March",
-		                "September",
-		                "June",
-		                "Feburary"
-		            ],
-		            "correct" : 3
-		        },
 				{
 				    "correct": 1,
 				    "content": [
@@ -566,7 +556,7 @@
 				        "do rodziny",
 				        "do rośliny"
 				    ],
-				    "questiona": "Do czego w Biblii nie jest porównany Kościół?"
+				    "question": "Do czego w Biblii nie jest porównany Kościół?"
 				},
 				{
 				    "correct": 0,
@@ -599,7 +589,7 @@
 				    "question": "W jakim mieście mieszkała Rachab?"
 				},
 		        {
-		            "question" : "WKto był nazwany „synem pocieszenia”?",
+		            "question" : "Kto był nazwany „synem pocieszenia”?",
 		            "content" : [
 		                "Barsaba",
 		                "Maciej",
